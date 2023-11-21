@@ -1,0 +1,14 @@
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/bin/Debug/net7.0/test2
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/bin/Debug/net7.0/test2.deps.json
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/bin/Debug/net7.0/test2.runtimeconfig.json
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/bin/Debug/net7.0/test2.dll
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/bin/Debug/net7.0/test2.pdb
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.GeneratedMSBuildEditorConfig.editorconfig
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.AssemblyInfoInputs.cache
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.AssemblyInfo.cs
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.csproj.CoreCompileInputs.cache
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.dll
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/refint/test2.dll
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.pdb
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/test2.genruntimeconfig.cache
+/home/minhcuong/Documents/X_Data_Com_NaVin/X_Documents/X_Learn_22CT115/C#_OOP/X_Builder_Pattern/test2/obj/Debug/net7.0/ref/test2.dll
